@@ -1,0 +1,21 @@
+.bg-dark {
+    background-color: #121212 !important;
+}
+
+.bg-secondary {
+    background-color: #1e1e1e !important;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #2a2a2a;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #fff;
+}
